@@ -1,1 +1,5 @@
-Este es un texto escrito primero
+Este es un texto escrito primero.
+
+Este texto se escribió luego. Es una modificación.
+
+Recordar que para salir de Vim se debe presionar la tecla "Esc" y luego escribir ":wq"

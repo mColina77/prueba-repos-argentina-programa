@@ -1,0 +1,5 @@
+Este es un texto escrito en el segundo archivo.
+
+Hay que ver cómo salgo de aquí.
+
+Hay que presionar la tecla "Esc" y luego escribir ":wq"
